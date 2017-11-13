@@ -1,6 +1,6 @@
 Input image should be in pgm format.
 
-To complie the programs, use:
+To compile the programs, use:
 gcc HideMessage.c -o HideMessage -lm
 gcc ShowMessage.c -o ShowMessage -lm
 
@@ -11,7 +11,7 @@ Parameters: [input image filename] [“Message to hide”]
 Date: 08/04/2017
 
 Show Message:
-Purpose: Given an input image, which has a text hidden in it the program decrypts the text message.
+Purpose: Given an input image, which has a text hidden in it, the program decrypts the text message.
 Author: Sahil Gupta
 Parameters: [input image filename]
 Date: 08/04/2017
